@@ -1,1 +1,1 @@
-# Predicción-de-resultados-de-partidos-de-fútbol-usando-aprendizaje-automático
+# Predicción de resultados de partidos de fútbol usando aprendizaje automático
