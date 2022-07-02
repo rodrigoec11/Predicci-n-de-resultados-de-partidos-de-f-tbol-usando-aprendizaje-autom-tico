@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <title>Resultado</title>
+</head>
+<body style="background-color: #A9DFBF; text-align: center; display: flex; justify-content: center; flex-wrap: wrap; color: #2E4053;">
+    <div style="width: 100%; height: 100%; background-color: #576F72; padding-bottom: 9px; margin: 0px 0px 50px; border-bottom: 2px solid #eee; color: aliceblue;">
+        <h1>Predicción de resultados de partidos de fútbol usando aprendizaje automático</h1>
+    </div>
+    <h2  style="width: 100%; height: 100%; margin-bottom: 5%;">Resultado del partido: {{data}}</h2>
+    <img src={% static "firework-15.gif" %}>
+</body>
+</html>
