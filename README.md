@@ -4,12 +4,12 @@ Para desplegar la página web del proyecto, desde Visual Studio Code se deben re
 
 1. Situarse en la carpeta prediccion_partidos_futbol
 
-2. Ejecutar los siguientes comandos:
+2. Ejecutar los siguientes comandos por orden:
 
-    pip install numpy, pandas, sklearn==1.0.2, joblib, django, djangorestframework, django-crispy-forms
-    python manage.py makemigrations
-    python manage.py migrate
-    python manage.py collectstatic
-    python manage.py runserver
+    * pip install numpy, pandas, sklearn==1.0.2, joblib, django, djangorestframework, django-crispy-forms
+    * python manage.py makemigrations
+    * python manage.py migrate
+    * python manage.py collectstatic
+    * python manage.py runserver
 
 3.Acceder por navegador al la siguiente url: http://127.0.0.1:8000/
