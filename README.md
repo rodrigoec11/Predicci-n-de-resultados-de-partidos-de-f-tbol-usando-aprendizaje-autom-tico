@@ -4,9 +4,11 @@ Para desplegar la página web del proyecto, desde Visual Studio Code se deben re
 
 1.Abrir un nuevo terminal
 
-2.Ejecutar el comando: git clone https://github.com/rodrigoec11/Prediccion-de-resultados-de-partidos-de-futbol-usando-aprendizaje-automatico.git
+2.Ejecutar el comando: 
+    * git clone https://github.com/rodrigoec11/Prediccion-de-resultados-de-partidos-de-futbol-usando-aprendizaje-automatico.git
 
-3.Situarse en la carpeta prediccion_partidos_futbol con el siguiente comando: cd Prediccion-de-resultados-de-partidos-de-futbol-usando-aprendizaje-automatico/prediccion_partidos_futbol
+3.Situarse en la carpeta prediccion_partidos_futbol con el siguiente comando: 
+    * cd Prediccion-de-resultados-de-partidos-de-futbol-usando-aprendizaje-automatico/prediccion_partidos_futbol
 
 4. Ejecutar los siguientes comandos por orden:
 
