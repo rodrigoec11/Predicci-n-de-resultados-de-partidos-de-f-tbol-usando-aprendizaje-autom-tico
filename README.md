@@ -1,5 +1,7 @@
 # Predicción de resultados de partidos de fútbol usando aprendizaje automático
 
+Este repositorio contiene toda la información adicional del proyecto de predicción del resultado de un partido de fútbol de una de las cinco grandes ligas a partir de los datos extraídos de los resultados de los años anteriores de estas ligas,implementando algoritmos y modelos de aprendizaje automático.
+
 Para desplegar la página web del proyecto, desde Visual Studio Code se deben realizar los siguientes pasos:
 
 1. Abrir un nuevo terminal
